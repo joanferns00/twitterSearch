@@ -1,0 +1,7 @@
+{
+    "statuses": [
+        {"text": "My first tweet"},
+        {"text": "My second tweet"},
+        {"text": "My third tweet"}                
+        ]
+}
